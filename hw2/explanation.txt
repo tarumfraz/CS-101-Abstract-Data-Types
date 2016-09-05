@@ -1,0 +1,29 @@
+********************
+CMPS 101 HW #2
+Tarum Fraz - 1349796
+Mark Rahal - 1449601
+explanation.txt
+********************
+
+**** Plot 1 - selection.pdf ****
+
+In this plot the best case is ultimately has a lower running time than the worst case. It has some unexpected spikes in functions, but that can be attributed to the machine that the algorithm was run on. It makes sense for the best case to have a lower running time than the worst case because Selection Sort is O(n^2), which means that during the worst case, it will take about n^2 times to run. Which makes sense looking at the graph. However, the worst case and the best case are not DRASTICALLY different. This can be attributed to nature of the algorithm itself. Even in this best case, we are still comparing EVERY value with the assigned minimum. This adds to our running time, and is the reason why the best and worst case are not drastically different.
+
+
+**** Plot 2 - insertion.pdf ****
+
+In this plot, the best and worst case are drastically different. The worst case takes an increasingly large running time, where as the running time for the best case is virtually constant. The drastic change between the two functions can be attributed to the nature of the insertion sort algorithm. During our best case, we don't have to make any swaps, only run through the array once, which keeps it constant for the most part for an incrasingly large input. Another reason for our constant running time during our best case is that there are not as many assignments (as compared to selection sort). During our worst case, we have many swaps, assignments, and iterations through n, leading to our large and increasing running time.
+
+
+**** Plot 3 - merge.pdf ****
+
+In this plot, the best and worst case are approximately the same. This is because the algorithm has the time complexity O(nlogn), and will recursively split the array the same amount of times, no matter what the order of the original input is. There are some unexpected spikes in the funcions, but that can be attributed to the machine it was running on.
+
+
+**** Plot 4 - all-sorted.pdf ****
+
+This plot shows the best cases of the three sorting algorithms on the same plot. As we can see, insertion sort and merge sort have a virtually consistent running time for increasingly large N, when compared to selection sort which increases drastically with large input. This is because, the best case does not effect the running time much for mergesort and insertion sort due to the nature of their algorithms. However, with selection sort, even though it is the best case, due to the nature of the algorithm, there will still be many assignments and swaps, leading to an increasingly large running time for increasingly large input. The explanation for the algorithms are explained in more detail above.
+
+**** Plot 5 - all-unsorted.pdf ****
+
+This plot shows the worst cases of the three sorting algorithms on the same plot. Selection Sort and Insertion Sort have time complexity O(n^2), and mergesort has time compexity O(nlogn), this is clearly shown on this plot. As input size N increases, the running time for selection sort and insertion sort increases as well. This is because both algorithms will perform the max amount of swaps possible. Mergesort is consistent compared to these two algorithms, because the recursion will run on any size N, the same amount of times.

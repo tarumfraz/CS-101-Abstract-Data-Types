@@ -1,0 +1,25 @@
+********************
+CMPS 101 HW #2
+Tarum Fraz - 1349796
+Mark Rahal - 1449601
+large-input.txt
+********************
+
+**************
+SelectionSort:
+**************
+
+Running Time: More than 1 hour
+
+**************
+InsertionSort:
+**************
+
+Running Time: More than 1.5 hours
+
+**********
+Mergesort:
+**********
+
+Running Time: 11.3242342703
+

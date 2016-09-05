@@ -1,0 +1,85 @@
+#****************************************************************************************************************
+# Q4 frequent.txt
+#****************************************************************************************************************
+
+
+*************
+* lowRating *
+*************
+Top 20 most frequent words:
+
+taste
+product
+coffee
+flavor
+food
+tea
+buy
+time
+tried
+amazon
+box
+little
+try
+bought
+dog
+eat
+love
+bad
+water
+bag
+
+
+**************
+* highRating *
+**************
+Top 20 most frequent words:
+
+water
+coffee
+taste
+love
+flavor
+tea
+product
+food
+little
+time
+amazon
+tried
+price
+buy
+try
+eat
+dog
+found
+chocolate
+bag
+
+*****************************
+* highRating after deletion *
+*****************************
+Number of distinct nodes: 121089
+
+Top 20 most frequent words:
+
+hears
+cakesters
+smiley360
+intakes
+biochemical
+synthesis
+nas
+300mgsday
+350mgs
+fnb
+lifespans
+cee
+soninlaw
+westies
+midwife
+adam
+listmania
+heartworm
+snackimals
+limping

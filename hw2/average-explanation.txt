@@ -1,0 +1,8 @@
+************************
+CMPS 101 HW #2
+Tarum Fraz - 1349796
+Mark Rahal - 1449601
+average-exxplanation.txt
+************************
+
+In general, Insertion Sort has the longest running time, when the input size is randomly permuted. This is similar to when the input is all unsorted, where insertion sort had an increasingly longer running time as well. Selection Sort on the average graph has a longer running time when compared to when input is completely sorted, and a shorter running time when compared to the all un-sorted plot. Merge sort stays consistent on all three graphs, which makes sense due to it's recursive nature.

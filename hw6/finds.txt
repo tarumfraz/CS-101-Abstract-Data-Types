@@ -1,0 +1,128 @@
+#****************************************************************************************************************
+# Q3 finds.txt
+#****************************************************************************************************************
+
+*************
+* lowRating *
+*************
+
+====================
+
+Word: asymptotic
+In tree? NO
+If not, successor? 'at'
+frequency: 11
+
+=====================
+
+Word: binary
+In tree? NO
+If not, successor? 'binbr'
+frequency: 7
+
+=====================
+
+Word: compexity
+In tree? YES
+If not, successor? N/A
+frequency: 44
+
+=====================
+
+Word: depth
+In tree? YES
+If not, successor? N/A
+frequency: 98
+
+=====================
+
+Word: mergesort
+In tree? NO
+If not, successor? 'merging'
+frequency: 1
+
+=====================
+
+Word: quicksort
+In tree? NO
+If not, successor? 'quickstop'
+frequency: 3
+
+=====================
+
+Word: structure
+In tree? YES
+If not, successor? N/A
+frequency: 18
+
+=====================
+
+Word: theta
+In tree? NO
+If not, successor? 'thevey'
+frequency: 1
+
+=====================
+
+
+**************
+* highRating *
+**************
+
+====================
+
+Word: asymptotic
+In tree? NO
+If not, successor? 'at'
+frequency: 24
+
+=====================
+
+Word: binary
+In tree? NO
+If not, successor? 'binaturae'
+frequency: 1
+
+=====================
+
+Word: compexity
+In tree? YES
+If not, successor? N/A
+frequency: 118
+
+=====================
+
+Word: depth
+In tree? YES
+If not, successor? N/A
+frequency: 272
+
+=====================
+
+Word: mergesort
+In tree? NO
+If not, successor? 'merging'
+frequency: 4
+
+=====================
+
+Word: quicksort
+In tree? NO
+If not, successor? 'quickstop'
+frequency: 1
+
+=====================
+
+Word: structure
+In tree? YES
+If not, successor? N/A
+frequency: 32
+
+=====================
+
+Word: theta
+In tree? NO
+If not, successor? 'thetre'
+frequency: 1
+
+=====================

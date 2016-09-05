@@ -1,0 +1,11 @@
+************
+faraway.txt
+************
+
+Liz Benson, Golden Jade
+Reginald Switz, Anna Rizzo
+Lily Ward, Woon-gyu Na 
+Daphne Zuniga, Anastasiya Zuyeva
+Shaheizy Sam, Alf Scotty
+
+In order to find these pairs, we justed the guess and check method. We slowly (and painfully) went through the list of thespians, and then we found two pairs that had a path greather than or equal to 6, after that we foudn actors within those paths, that appeared to be in a small amount of random movies, and comapred them to other actors that had the same background. Slow, but sure process.

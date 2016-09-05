@@ -1,0 +1,124 @@
+*************
+* lowRating *
+*************
+
+====================
+
+Word: asymptotic
+In tree? NO
+If not, successor? at
+frequency: 0
+
+=====================
+
+Word: binary
+In tree? NO
+If not, successor? bind
+frequency: 0
+
+=====================
+
+Word: complexity
+In tree? YES
+If not, successor?
+frequency: 83
+
+=====================
+
+Word: depth
+In tree? YES
+If not, successor?
+frequency: 183
+
+=====================
+
+Word: mergesort
+In tree? NO
+If not, successor? merging
+frequency: 0
+
+=====================
+
+Word: quicksort
+In tree? NO
+If not, successor? quicktomake
+frequency: 0
+
+=====================
+
+Word: structure
+In tree? YES
+If not, successor?
+frequency: 27
+
+=====================
+
+Word: theta
+In tree? NO
+If not, successor? thevey
+frequency: 0
+
+=====================
+
+
+**************
+* highRating *
+**************
+
+====================
+
+Word: asymptotic
+In tree? NO
+If not, successor? at2020
+frequency: 0
+
+=====================
+
+Word: binary
+In tree? NO
+If not, successor? binbr
+frequency: 0
+
+=====================
+
+Word: compexity
+In tree? YES
+If not, successor?
+frequency: 196
+
+=====================
+
+Word: depth
+In tree? YES
+If not, successor?
+frequency: 492
+
+=====================
+
+Word: mergesort
+In tree? NO
+If not, successor? merguez
+frequency: 0
+
+=====================
+
+Word: quicksort
+In tree? NO
+If not, successor? quickstop
+frequency: 0
+
+=====================
+
+Word: structure
+In tree? YES
+If not, successor?
+frequency: 74
+
+=====================
+
+Word: theta
+In tree? NO
+If not, successor? thethought
+frequency: 0
+
+=====================
